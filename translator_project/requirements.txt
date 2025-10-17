@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+transformers
+sentencepiece
+torch
+gTTS
+soundfile
